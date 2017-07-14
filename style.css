@@ -13,7 +13,7 @@ html{
 ul li{
   Font-family: Helvetica;
   Font-size: 18px;
-  Color: White !important;
+  Color: White;
   list-style-type: none;
   margin: 0;
   padding: 0;
